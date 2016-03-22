@@ -5,6 +5,7 @@
 保留字
 -------------------
 
+|:----- |:-----:|:-----:|:-----:|------:|
 |False	|class	|finally|is 	|return	|
 |None	|continue|for 	|lambda	|try	|
 |True	|def	|from 	|nonlocal|while	|
