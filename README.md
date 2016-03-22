@@ -12,6 +12,7 @@
 | zebra stripes | are neat        |    $1 |
 | test | 測試        |    $3333 |
 
+|		|		|		|		|		|
 |:----- |:-----:|:-----:|:-----:|------:|
 |False	|class	|finally|is 	|return	|
 |None	|continue|for 	|lambda	|try	|
