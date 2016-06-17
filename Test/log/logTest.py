@@ -65,6 +65,8 @@ def logAdvancedTest():
 
 def logAdvanced2Test():
     import logging.config
+    from datetime import datetime , timedelta , date
+    # from logging.handlers import TimedRotatingFileHandler
 
     #在定義檔中設定
     logging.config.fileConfig('logging.conf')
